@@ -1,0 +1,3 @@
+name = ("khurram Shahzad")c
+
+print ("my name \t is", name)

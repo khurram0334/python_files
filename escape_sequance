@@ -1,0 +1,19 @@
+print ("khurram \"shahzad\" lives in gujrat")
+print ('khurram \'gujrati\'')
+
+#new line \n   if u need to use two lines
+print ("line A")
+print ("line B")
+
+print ("line A \nLine B")
+
+#\t use for the tab 
+print ("khurram \tshahzad")
+
+#\\ double back slash
+
+print ("khurram \\shahzad")
+
+#\n , \t, \\   used backslash cases \\\\,    \b >> used for back space      
+
+print ("hell\blo")
