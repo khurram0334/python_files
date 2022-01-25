@@ -10,3 +10,5 @@ if  bool(name) == True:
 
 
 print ("my sale man ages are %(atif)s , %(amjad)s, %(sohail)s" %{"atif": 40, "amjad": 20, "sohail": 30} )
+
+print ("please print this to update git")
