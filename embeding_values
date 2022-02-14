@@ -1,3 +1,6 @@
-name = ("khurram Shahzad")c
+
+name = ("khurram Shahzad")
 
 print ("my name \t is", name)
+
+print ("my name is \n khurram")

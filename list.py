@@ -6,7 +6,7 @@ print(len(my_t)) #printing length of touple
 # strings
 name = "khurram_shahzad"
 print (name [:]) #printing complete length of string
-print (type (my_t)) #printing the type of object
+print (type (my_t)) #printing the type of objec
 #list
 my_l = ["khurram", "shahzad", 1977, 255, "gujrat"]
 print (len(my_l))
@@ -32,6 +32,10 @@ for i in range (4,8):
     my_list.append(i) # for adding value in list  
     
 print (my_list)
+
+# List Comprehension 
+n_list = [i for i in range (4,8)]
+print (n_list, "\n____________")
 
 
 # Python 3: List comprehensions
@@ -67,4 +71,8 @@ for i in a:
     else:
         break
 
+# list comprehension
+
+a_list = [i for i in a if i/2 ==1 ]
+print (a_list)
 print (list(range(1,10,2))) # to print list with interval of 2.
