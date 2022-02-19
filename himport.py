@@ -1,0 +1,3 @@
+import snake_game
+
+snake_game.total_tries
